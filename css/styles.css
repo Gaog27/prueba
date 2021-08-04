@@ -1,0 +1,104 @@
+body
+{
+    background-image: url(/img/mountain-range-wallpaper.jpg);
+}
+#titulo
+{
+    color: cadetblue;
+}
+
+#negri
+{
+    color: red;
+}
+
+.destacado
+{
+    color: orange;
+}
+
+#subtitulo
+{
+    color: blue;
+}
+
+.a1
+{
+    color: red;
+}
+
+.a1 em
+{
+    color: blue;
+}
+
+.especial
+{
+    color: purple;
+}
+
+table
+{
+
+    margin-right: auto;
+    border-collapse: collapse;
+} 
+
+td,th
+{
+    border: 1px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+caption
+{
+    color: blue;
+}
+
+thead tr .especial
+{
+    color: orange;
+}
+
+tbody tr .especial
+{
+    color: orange;
+}
+tbody td
+{
+    color:green;
+}
+
+tbody tr td strong
+{
+    color: orange;
+}
+
+tbody tr th
+{
+    color: red;
+}
+
+tfoot tr 
+{
+    color: red;
+}
+
+#adicional
+{
+    color: rgb(92, 133, 32);
+}
+
+#especial
+{
+    color:fuchsia;
+}
+
+div p a
+{
+    color: green;
+}
